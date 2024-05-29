@@ -59,7 +59,7 @@ The `backend` app will be ran on port `8001`.
 ```shell
    cd frontend
 ```
-After this step, remember the add `.env` below the `frontend` directory, add add this line with your own server IP.
+After this step, remember the add `.env` below the `frontend` directory, replace the `<SERVER_IP>` with your own server IP.
 ```shell
    VITE_REACT_APP_SERVER_URL=http://<SERVER_IP>:8001
 ```
@@ -75,7 +75,7 @@ We can use the app at `http://localhost:8080`. Please make sure that the machine
 
 Below is my application's user interface.
 
-<img src="readme-markdown/ui-home.png">
+<img src="readme-images/ui-home.png">
 
 The app supports 3 methods of sending images:
 - Drag-and-drop
@@ -86,11 +86,13 @@ After being uploaded, the image is displayed with full resolution, with an edita
 
 Here are some sample queries:
 
-<img src="readme-markdown/query-citrus.png">
-<img src="readme-markdown/query-chromosomes.png">
-<img src="readme-markdown/query-firetrucks.png">
+<img src="readme-images/query-citrus.png">
+<img src="readme-images/query-chromosomes.png">
+<img src="readme-images/query-firetrucks.png">
 
 
 
 ## Reference
+
+
 
