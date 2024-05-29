@@ -83,7 +83,7 @@ We can use the app at `http://localhost:8080`. Please make sure that the machine
 
 Below is my application's user interface.
 
-<img src="readme-images/ui-home.png">
+<img src="readme-markdown/ui-home.png">
 
 The app supports 3 methods of sending images:
 - Drag-and-drop
@@ -94,13 +94,21 @@ After being uploaded, the image is displayed with full resolution, with an edita
 
 Here are some sample queries:
 
-<img src="readme-images/query-citrus.png">
-<img src="readme-images/query-chromosomes.png">
-<img src="readme-images/query-firetrucks.png">
+<img src="readme-markdown/query-citrus.png">
+<img src="readme-markdown/query-chromosomes.png">
+<img src="readme-markdown/query-firetrucks.png">
 
 
 
 ## 6. References
+
+- [BLIP2 Flan T5-xxl](https://huggingface.co/Salesforce/blip2-flan-t5-xxl) - BLIP-2 model card
+- [blip2_instructed_generation.ipynb](https://colab.research.google.com/github/salesforce/LAVIS/blob/main/examples/blip2_instructed_generation.ipynb#scrollTo=YjxNZwBzPqhE) - Instruction on using the BLIP-2 model
+- [Docker Docs](https://docs.docker.com/) - Docker documentation
+- [Use Docker Compose](https://docs.docker.com/get-started/08_using_compose/) - Docker Compose tutorial 
+- [Build a Machine Learning Web Application | React.js Huggingface.js & TailwindCSS](https://www.youtube.com/watch?v=lp4lWkPCZDg) - Build app with Vite and ReactJS
+- [Write your 1st Dockerfile | Dockerfile basics | How to write Dockerfile to setup Tomcat container](https://www.youtube.com/watch?v=85Qc87NeKEM&t=739s) - Dockerfile tutorial
+
 
 
 
