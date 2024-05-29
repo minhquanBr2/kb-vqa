@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  kbvqa-client:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: BUILD_IMAGE
+    ports:
+      - "8080:8080"
+    command: npm run preview
+  
+  # test:
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #     target: TEST_IMAGE
+  #   command: npm run test
