@@ -23,5 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
+<<<<<<< HEAD
 # Test
 tests
+=======
+.env
+>>>>>>> a20b311b232100b1ffac6298ef639a91e5da90ae
