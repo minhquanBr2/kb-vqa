@@ -95,7 +95,7 @@ After being uploaded, the image is displayed with full resolution, with an edita
 Here are some sample queries:
 
 <img src="readme-images/query-citrus.png">
-<img src="readme-images/query-chromosomes.png">
+<img src="readme-images/query-chromosome.png">
 <img src="readme-images/query-firetrucks.png">
 
 
