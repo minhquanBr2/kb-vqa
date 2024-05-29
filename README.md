@@ -83,7 +83,7 @@ We can use the app at `http://localhost:8080`. Please make sure that the machine
 
 Below is my application's user interface.
 
-<img src="readme-markdown/ui-home.png">
+<img src="readme-images/ui-home.png">
 
 The app supports 3 methods of sending images:
 - Drag-and-drop
@@ -94,9 +94,9 @@ After being uploaded, the image is displayed with full resolution, with an edita
 
 Here are some sample queries:
 
-<img src="readme-markdown/query-citrus.png">
-<img src="readme-markdown/query-chromosomes.png">
-<img src="readme-markdown/query-firetrucks.png">
+<img src="readme-images/query-citrus.png">
+<img src="readme-images/query-chromosomes.png">
+<img src="readme-images/query-firetrucks.png">
 
 
 
